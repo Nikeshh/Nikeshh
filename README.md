@@ -26,6 +26,7 @@
 <br />
 <br />
 Updated on December 2020:
+<br />
 I love to learn new things and my learning list goes on forever 😁
 
 ### Languages and Tools:
