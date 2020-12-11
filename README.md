@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to play video games. Sometimes i feel like i am still a noob in gaming. But still love to play.
 
 ### Spotify Playing 🎧
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=vx61l9s1o5thes6a7snwryyy0&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vx61l9s1o5thes6a7snwryyy0&cover_image=true&theme=default)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=vx61l9s1o5thes6a7snwryyy0&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vx61l9s1o5thes6a7snwryyy0&cover_image=true&theme=default)]
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="nikeshh Spotify Playing" width="350" />](https://open.spotify.com/user/vx61l9s1o5thes6a7snwryyy0)
 
