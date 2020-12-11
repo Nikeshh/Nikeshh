@@ -14,8 +14,6 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vx61l9s1o5thes6a7snwryyy0&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="nikeshh Spotify Playing" width="350" />](https://open.spotify.com/user/vx61l9s1o5thes6a7snwryyy0)
-
 ### Connect with me:
 
 [<img align="left" alt="nikeshh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
