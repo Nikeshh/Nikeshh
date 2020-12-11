@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-nikeshh.vercel.app/api/spotify-playing" alt="nikeshh Spotify Playing" width="350" />](https://open.spotify.com/user/vx61l9s1o5thes6a7snwryyy0)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="nikeshh Spotify Playing" width="350" />](https://open.spotify.com/user/vx61l9s1o5thes6a7snwryyy0)
 
 ### Connect with me:
 
