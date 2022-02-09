@@ -25,7 +25,7 @@
 <br />
 <br />
 <br />
-Updated on December 2020:
+Updated on December 2022:
 <br />
 I love to learn new things and my learning list goes on forever 😁
 
