@@ -11,8 +11,8 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games. Sometimes i feel like i am still a noob in gaming. But still love to play.
 
-### Spotify Playing 🎧
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vx61l9s1o5thes6a7snwryyy0&cover_image=true&theme=default)
+<!--### Spotify Playing 🎧
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vx61l9s1o5thes6a7snwryyy0&cover_image=true&theme=default)-->
 
 ### Connect with me:
 
