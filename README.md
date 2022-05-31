@@ -25,7 +25,7 @@
 <br />
 <br />
 <br />
-Updated on December 2022:
+Updated on May 2022:
 <br />
 I love to learn new things and my learning list goes on forever 😁
 
@@ -102,7 +102,7 @@ I love to learn new things and my learning list goes on forever 😁
 
 [website]: https://nikeshh.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/NikeshhB
+[twitter]: https://twitter.com/NikeshhV
 [youtube]: https://www.youtube.com/channel/UCwfz4bgRgWAsF0KKokY7ztA/
 [instagram]: https://www.instagram.com/nikeshhbaskaran/
 [linkedin]: https://www.linkedin.com/in/nikeshh/
