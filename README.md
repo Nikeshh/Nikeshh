@@ -8,7 +8,7 @@
 - 🔭 World is full of superheros. I am trying to be one 🤣!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games. Sometimes i feel like i am still a noob in gaming. But still love to play.
 
 <!--### Spotify Playing 🎧
@@ -25,7 +25,7 @@
 <br />
 <br />
 <br />
-Updated on May 2022:
+Updated on Jan 2024
 <br />
 I love to learn new things and my learning list goes on forever 😁
 
