@@ -101,9 +101,6 @@ I love to learn new things and my learning list goes on forever 😁
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-<br />
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
