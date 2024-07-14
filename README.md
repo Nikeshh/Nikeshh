@@ -25,6 +25,7 @@
 [<img align="left" alt="nikeshh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 I love to learn new things and my learning list goes on forever 😁
 
 # Languages and Tools:
