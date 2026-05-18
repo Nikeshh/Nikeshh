@@ -1,0 +1,32 @@
+# Copy to Nikeshh/Nikeshh/.github/workflows/ to auto-fill <!--START_SECTION:activity--> in your profile README.
+# Docs: https://github.com/jamesgeorge007/github-readme-activity-action
+
+name: Update README activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-readme-activity-action@v0.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          settings: |
+            {
+              "username": "Nikeshh",
+              "limit": 7,
+              "days": 14,
+              "compact": true,
+              "hide_title": true
+            }
+          commit_message: "chore: update README activity"
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+          committer_name: github-actions[bot]

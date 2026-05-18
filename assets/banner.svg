@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Nikeshh Vijayabaskaran">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02040a"/>
+      <stop offset="55%" stop-color="#0c1929"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#accent)"/>
+  <circle cx="1040" cy="60" r="120" fill="#0ea5e9" fill-opacity="0.08"/>
+  <circle cx="180" cy="220" r="90" fill="#38bdf8" fill-opacity="0.06"/>
+  <text x="72" y="118" fill="#f4f4f5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="52" font-weight="700">Nikeshh Vijayabaskaran</text>
+  <text x="72" y="168" fill="#a1a1aa" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="500">Lead AI &amp; Full Stack Developer · Production AI systems</text>
+  <text x="72" y="218" fill="#38bdf8" font-family="ui-monospace, monospace" font-size="16" letter-spacing="2">RAG · AGENTS · EVALS · PLATFORM</text>
+</svg>
