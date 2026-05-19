@@ -8,10 +8,6 @@
 
 ### AI Engineer building Intelligent Systems
 
-<h4 align="center">
-  Building calm, reliable intelligent products — assistants, retrieval & agentic workflows that survive real users.
-</h4>
-
 <br/>
 
 <table align="center">
@@ -45,102 +41,30 @@
 
 ## About
 
-I'm an **AI engineer** who ships intelligent systems into real products and operations.
+I'm an **AI engineer** building intelligent systems and shipping them into real products and operations. I focus on **building calm, reliable intelligent products** — assistants, retrieval, and agentic workflows that survive real users.
 
 **Known for**
 
-| | |
-|:---|:---|
-| ◈ | Full-stack AI development & integration — product, RAG & vector databases |
-| ◈ | Intelligent product, middleware & agentic workflows |
-| ◈ | AI-driven UX/UI design |
-| ◈ | Model deployment & scalable inference (LLMOps) |
-| ◈ | Real-time data streaming for AI |
+- Full-stack AI development & integration — product, RAG & vector databases
+- Intelligent product, middleware & agentic workflows
+- AI-driven UX/UI design
+- Model deployment & scalable inference (LLMOps)
+- Real-time data streaming for AI
 
 ---
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,next,react,nodejs,postgres,docker,kubernetes,aws,gcp,azure,graphql,redis,kafka,git&perline=9&theme=dark" alt="Core stack" />
+  <img src="https://skillicons.dev/icons?i=ts,py,next,react,nodejs,postgres,docker,kubernetes,aws,gcp,azure,graphql,redis,kafka,git,vue,angular,java,spring,mongodb,terraform,prometheus,pytorch,flutter,figma&perline=9&theme=dark" alt="Technologies" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,angular,java,spring,mongodb,terraform,prometheus,pytorch,flutter,figma&perline=9&theme=dark" alt="Extended toolkit" />
-</p>
-
-<table width="100%" style="border-collapse: collapse;">
-<tr>
-<td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 18px;">
-
-#### AI systems
-
-- LLM systems
-- RAG & retrieval
-- Agents & tools
-- Evals & observability
-
-<br/>
-
-**The intelligent layer** — models, search over your data, tools & agents, plus monitoring so behavior stays trustworthy after launch.
-
-</td>
-<td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 18px;">
-
-#### Data & infrastructure
-
-- PostgreSQL
-- Kubernetes
-- Docker
-- AWS
-- GCP
-- Azure
-
-<br/>
-
-**Databases, orchestration, and cloud** — latency, reliability, and cost stay predictable.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 18px;">
-
-#### Languages & frameworks
-
-- TypeScript
-- Python
-- Next.js
-- Node
-- Vue
-- Angular
-- Java
-- Spring Boot
-
-<br/>
-
-**Typed product code** — fast iteration without cutting corners on structure.
-
-</td>
-<td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 18px;">
-
-#### Platform
-
-- APIs
-- Event-driven systems
-- Technical leadership
-- MongoDB
-- Terraform
-- Prometheus
-- Grafana
-- PyTorch
-
-<br/>
-
-**System design and direction** — trade-offs clear, teams ship and own what runs in prod.
-
-</td>
-</tr>
-</table>
+| Title | Description | Stack |
+| :--- | :--- | :--- |
+| **AI systems** | The intelligent layer — models, search over your data, tools & agents, plus monitoring so behavior stays trustworthy after launch. | LLM systems<br>RAG & retrieval<br>Agents & tools<br>Evals & observability |
+| **Languages & frameworks** | Typed product code — fast iteration without cutting corners on structure. | TypeScript<br>Python<br>Next.js<br>Node<br>Vue<br>Angular<br>Java<br>Spring Boot |
+| **Data & infrastructure** | Databases, orchestration, and cloud — latency, reliability, and cost stay predictable. | PostgreSQL<br>Kubernetes<br>Docker<br>AWS<br>GCP<br>Azure<br>MongoDB<br>Redis<br>Kafka |
+| **Platform** | System design and direction — trade-offs clear, teams ship and own what runs in prod. | APIs<br>Event-driven systems<br>Technical leadership<br>Terraform<br>Prometheus<br>Grafana<br>PyTorch |
 
 ---
 
