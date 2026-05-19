@@ -41,7 +41,7 @@
 
 ## About
 
-I'm an **AI engineer** building intelligent systems and shipping them into real products and operations. I focus on **building calm, 🧠 reliable intelligent products** — assistants, retrieval, and agentic workflows that survive real users.
+I'm an **AI engineer** building intelligent systems and shipping them into real products and operations. I focus on **building calm, reliable intelligent products 🧠** — assistants, retrieval, and agentic workflows that survive real users.
 
 **Known for**
 
