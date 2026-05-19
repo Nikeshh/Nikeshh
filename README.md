@@ -6,7 +6,7 @@
 
 # Nikeshh Vijayabaskaran
 
-### AI Engineer building Intelligent Systems
+*🧠 AI Engineer building Intelligent Systems*
 
 <br/>
 
@@ -59,12 +59,82 @@ I'm an **AI engineer** building intelligent systems and shipping them into real 
   <img src="https://skillicons.dev/icons?i=ts,py,next,react,nodejs,postgres,docker,kubernetes,aws,gcp,azure,graphql,redis,kafka,git,vue,angular,java,spring,mongodb,terraform,prometheus,pytorch,flutter,figma&perline=9&theme=dark" alt="Technologies" />
 </p>
 
-| Title | Description | Stack |
-| :--- | :--- | :--- |
-| **AI systems** | The intelligent layer — models, search over your data, tools & agents, plus monitoring so behavior stays trustworthy after launch. | LLM systems<br>RAG & retrieval<br>Agents & tools<br>Evals & observability |
-| **Languages & frameworks** | Typed product code — fast iteration without cutting corners on structure. | TypeScript<br>Python<br>Next.js<br>Node<br>Vue<br>Angular<br>Java<br>Spring Boot |
-| **Data & infrastructure** | Databases, orchestration, and cloud — latency, reliability, and cost stay predictable. | PostgreSQL<br>Kubernetes<br>Docker<br>AWS<br>GCP<br>Azure<br>MongoDB<br>Redis<br>Kafka |
-| **Platform** | System design and direction — trade-offs clear, teams ship and own what runs in prod. | APIs<br>Event-driven systems<br>Technical leadership<br>Terraform<br>Prometheus<br>Grafana<br>PyTorch |
+<table width="100%">
+<colgroup>
+<col width="16%" />
+<col width="28%" />
+<col width="56%" />
+</colgroup>
+<thead>
+<tr>
+<th align="left">Title</th>
+<th align="left">Description</th>
+<th align="left">Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><b>AI systems</b></td>
+<td valign="top">The intelligent layer — models, search over your data, tools & agents, plus monitoring so behavior stays trustworthy after launch.</td>
+<td valign="top">
+<ul>
+<li>LLM systems</li>
+<li>RAG & retrieval</li>
+<li>Agents & tools</li>
+<li>Evals & observability</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Languages & frameworks</b></td>
+<td valign="top">Typed product code — fast iteration without cutting corners on structure.</td>
+<td valign="top">
+<ul>
+<li>TypeScript</li>
+<li>Python</li>
+<li>Next.js</li>
+<li>Node</li>
+<li>Vue</li>
+<li>Angular</li>
+<li>Java</li>
+<li>Spring Boot</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Data & infrastructure</b></td>
+<td valign="top">Databases, orchestration, and cloud — latency, reliability, and cost stay predictable.</td>
+<td valign="top">
+<ul>
+<li>PostgreSQL</li>
+<li>Kubernetes</li>
+<li>Docker</li>
+<li>AWS</li>
+<li>GCP</li>
+<li>Azure</li>
+<li>MongoDB</li>
+<li>Redis</li>
+<li>Kafka</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Platform</b></td>
+<td valign="top">System design and direction — trade-offs clear, teams ship and own what runs in prod.</td>
+<td valign="top">
+<ul>
+<li>APIs</li>
+<li>Event-driven systems</li>
+<li>Technical leadership</li>
+<li>Terraform</li>
+<li>Prometheus</li>
+<li>Grafana</li>
+<li>PyTorch</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
