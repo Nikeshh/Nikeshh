@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nikeshh/Nikeshh/main/assets/nikeshh.png" width="100%" alt="Nikeshh Vijayabaskaran — AI engineer" />
+<img src="https://raw.githubusercontent.com/Nikeshh/Nikeshh/main/assets/banner.png" width="100%" alt="Nikeshh Vijayabaskaran" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 &nbsp;
 [![X](https://img.shields.io/badge/@NikeshhV-111?style=for-the-badge&logo=x&logoColor=white&labelColor=02040a)](https://x.com/NikeshhV)
 &nbsp;
-[![Email](https://img.shields.io/badge/email-admin@nikeshh.com-1e293b?style=for-the-badge&logo=maildotru&logoColor=38bdf8&labelColor=02040a)](mailto:admin@nikeshh.com)
+[![Email](https://img.shields.io/badge/email-admin@nikeshh.com-1e293b?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=02040a)](mailto:admin@nikeshh.com)
 
 <br/>
 
@@ -26,26 +26,13 @@
 
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/Nikeshh/Nikeshh/main/assets/section-about.svg" width="100%" alt="About" />
-
-<br/>
-
-<table>
-<tr>
-<td width="240" align="center" valign="top">
-
-<img src="https://raw.githubusercontent.com/Nikeshh/Nikeshh/main/assets/nikeshh-profile.png" width="200" alt="Nikeshh" />
-
-</td>
-<td valign="top">
+## About
 
 I'm an **AI engineer** who ships intelligent systems into real products and operations — not demos.
 
 Measurable **quality**, predictable **latency**, and **failure modes** teams can own, iterate on safely, and tie to business outcomes.
-
-<br/>
 
 **Known for**
 
@@ -56,12 +43,6 @@ Measurable **quality**, predictable **latency**, and **failure modes** teams can
 | ◈ | AI-driven UX/UI design |
 | ◈ | Model deployment & scalable inference (LLMOps) |
 | ◈ | Real-time data streaming for AI |
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <table>
 <tr>
@@ -92,17 +73,13 @@ Measurable **quality**, predictable **latency**, and **failure modes** teams can
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/Nikeshh/Nikeshh/main/assets/section-stack.svg" width="100%" alt="Stack" />
-
-<br/>
+## Stack
 
 <p align="center">
-  <img src="https://go.skillicons.dev/icons?i=ts,py,next,react,nodejs,postgres,docker,kubernetes,aws,gcp,azure,graphql,redis,kafka,git,openai&perline=8&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=ts,py,next,react,nodejs,postgres,docker,kubernetes,aws,gcp,azure,graphql,redis,kafka,git&perline=8&theme=dark" alt="Technologies" />
 </p>
-
-<br/>
 
 <table width="100%">
 <tr>
@@ -136,11 +113,11 @@ Measurable **quality**, predictable **latency**, and **failure modes** teams can
 </table>
 
 <details>
-<summary><b>&nbsp; Extended toolkit &nbsp;</b></summary>
+<summary><b>Extended toolkit</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://go.skillicons.dev/icons?i=vue,angular,java,spring,mongodb,redis,terraform,prometheus,pytorch,flutter,figma&perline=6&theme=dark" alt="More tools" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,java,spring,mongodb,redis,terraform,prometheus,pytorch,flutter,figma&perline=6&theme=dark" alt="More technologies" />
 </p>
 
 Vue · Angular · Java · Spring Boot · MongoDB · Terraform · Prometheus · Grafana · PyTorch · scikit-learn
@@ -149,12 +126,8 @@ Vue · Angular · Java · Spring Boot · MongoDB · Terraform · Prometheus · G
 
 <br/>
 
-<div align="center">
+---
 
-<img src="https://raw.githubusercontent.com/Nikeshh/Nikeshh/main/assets/banner.svg" width="100%" alt="" />
-
-<br/>
-
-**[nikeshh.com](https://nikeshh.com)** &nbsp;·&nbsp; Toronto &nbsp;·&nbsp; Let's build something that holds up in production.
-
-</div>
+<p align="center">
+  <a href="https://nikeshh.com"><b>nikeshh.com</b></a> &nbsp;·&nbsp; Let's build something that holds up in production.
+</p>
