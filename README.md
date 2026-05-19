@@ -4,10 +4,9 @@
 
 <br/>
 
-<p align="center" style="margin: 0; line-height: 1.2;">
-  <strong style="font-size: 1.75em;">Nikeshh Vijayabaskaran</strong><br>
-  <em>AI Engineer building Intelligent Systems</em>
-</p>
+<h1 align="center" style="border-bottom: 0; margin: 0 0 0.25em 0; padding-bottom: 0;">Nikeshh Vijayabaskaran</h1>
+
+<p align="center" style="margin: 0;"><em>AI Engineer building Intelligent Systems</em></p>
 
 <br/>
 
@@ -60,7 +59,9 @@ I'm an **AI engineer** building intelligent systems and shipping them into real 
   <img src="https://skillicons.dev/icons?i=ts,py,next,react,nodejs,postgres,docker,kubernetes,aws,gcp,azure,graphql,redis,kafka,git,vue,angular,java,spring,mongodb,terraform,prometheus,pytorch,flutter,figma&perline=9&theme=dark" alt="Technologies" />
 </p>
 
-<table width="100%" style="table-layout: fixed;">
+<div align="center">
+
+<table align="center" width="100%" style="table-layout: fixed; max-width: 960px; margin: 0 auto;">
 <colgroup>
 <col width="130" />
 <col width="220" />
@@ -136,6 +137,8 @@ I'm an **AI engineer** building intelligent systems and shipping them into real 
 </tr>
 </tbody>
 </table>
+
+</div>
 
 ---
 
