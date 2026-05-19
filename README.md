@@ -6,23 +6,29 @@
 
 # Nikeshh Vijayabaskaran
 
-### AI engineer · intelligent systems in production
+### AI Engineer building Intelligent Systems
 
 <sub>Building calm, reliable intelligent products — assistants, retrieval & agentic workflows that survive real users.</sub>
 
 <br/>
 
-[![nikeshh.com](https://img.shields.io/badge/↗_nikeshh.com-0ea5e9?style=for-the-badge&labelColor=02040a)](https://nikeshh.com)
+<a href="https://nikeshh.com" title="nikeshh.com">
+  <img src="https://img.shields.io/badge/nikeshh.com-0ea5e9?style=for-the-badge&labelColor=02040a" alt="nikeshh.com" />
+</a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02040a)](https://www.linkedin.com/in/nikeshh/)
+<a href="https://www.linkedin.com/in/nikeshh/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+</a>
 &nbsp;
-[![X](https://img.shields.io/badge/@NikeshhV-111?style=for-the-badge&logo=x&logoColor=white&labelColor=02040a)](https://x.com/NikeshhV)
+<a href="https://x.com/NikeshhV" title="X">
+  <img src="https://img.shields.io/badge/@NikeshhV-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=111111" alt="X" />
+</a>
 &nbsp;
-[![Email](https://img.shields.io/badge/email-admin@nikeshh.com-1e293b?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=02040a)](mailto:admin@nikeshh.com)
+<a href="mailto:admin@nikeshh.com" title="admin@nikeshh.com">
+  <img src="https://img.shields.io/badge/-1e293b?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1e293b" alt="Email" />
+</a>
 
 <br/>
-
-`Remote-first` &nbsp;·&nbsp; `Overlap US & EU` &nbsp;·&nbsp; `Open to selective AI & platform work · Q2 2026`
 
 </div>
 
@@ -44,35 +50,6 @@ Measurable **quality**, predictable **latency**, and **failure modes** teams can
 | ◈ | Model deployment & scalable inference (LLMOps) |
 | ◈ | Real-time data streaming for AI |
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**LLM systems**  
-<sub>Routing, prompts, guardrails, fallbacks — safe degradation when models or tools misbehave.</sub>
-
-**RAG & retrieval**  
-<sub>Chunking, embeddings, hybrid search, reranking — grounded, attributable, debuggable.</sub>
-
-**Agents & tools**  
-<sub>Schemas, permissions, loop control — stop, escalate, and retry predictably.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**Evals & observability**  
-<sub>Golden sets, online checks, tracing — quality as metrics teams can act on.</sub>
-
-**Platform & APIs**  
-<sub>Versioned contracts, auth, internal surfaces other teams build on safely.</sub>
-
-**Technical leadership**  
-<sub>Roadmaps, trade-offs, shipping discipline — without drowning builders in process.</sub>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## Stack
@@ -83,12 +60,25 @@ Measurable **quality**, predictable **latency**, and **failure modes** teams can
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 16px;">
 
 **AI systems**  
 `LLM systems` `RAG & retrieval` `Agents & tools` `Evals & observability`
 
 <sub>The intelligent layer — models, search over your data, tools & agents, plus monitoring so behavior stays trustworthy after launch.</sub>
+
+</td>
+<td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 16px;">
+
+**Data & infrastructure**  
+`PostgreSQL` `Kubernetes` `Docker` `AWS` `GCP` `Azure`
+
+<sub>Databases, orchestration, and cloud — latency, reliability, and cost stay predictable.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 16px;">
 
 **Languages & frameworks**  
 `TypeScript` `Python` `Next.js` `Node`
@@ -96,12 +86,7 @@ Measurable **quality**, predictable **latency**, and **failure modes** teams can
 <sub>Typed product code — fast iteration without cutting corners on structure.</sub>
 
 </td>
-<td width="50%" valign="top">
-
-**Data & infrastructure**  
-`PostgreSQL` `Kubernetes` `Docker` `AWS` `GCP` `Azure`
-
-<sub>Databases, orchestration, and cloud — latency, reliability, and cost stay predictable.</sub>
+<td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 16px;">
 
 **Platform**  
 `APIs` `Event-driven systems` `Technical leadership`
