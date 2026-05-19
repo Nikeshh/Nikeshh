@@ -12,23 +12,30 @@
 
 <br/>
 
+<table align="center">
+<tr>
+<td align="center" style="padding: 0 10px;">
 <a href="https://nikeshh.com" title="nikeshh.com">
-  <img src="https://img.shields.io/badge/nikeshh.com-0ea5e9?style=for-the-badge&labelColor=02040a" alt="nikeshh.com" />
+<img src="https://cdn.simpleicons.org/googlechrome/0ea5e9" height="40" width="40" alt="Website" />
 </a>
-&nbsp;
+</td>
+<td align="center" style="padding: 0 10px;">
 <a href="https://www.linkedin.com/in/nikeshh/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" width="40" alt="LinkedIn" />
 </a>
-&nbsp;
+</td>
+<td align="center" style="padding: 0 10px;">
 <a href="https://x.com/NikeshhV" title="X">
-  <img src="https://img.shields.io/badge/@NikeshhV-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=111111" alt="X" />
+<img src="https://cdn.simpleicons.org/x/000000" height="40" width="40" alt="X" />
 </a>
-&nbsp;
+</td>
+<td align="center" style="padding: 0 10px;">
 <a href="mailto:admin@nikeshh.com" title="admin@nikeshh.com">
-  <img src="https://img.shields.io/badge/-1e293b?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1e293b" alt="Email" />
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="40" alt="Email" />
 </a>
-
-<br/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -43,7 +50,6 @@ Measurable **quality**, predictable **latency**, and **failure modes** teams can
 **Known for**
 
 | | |
-|:---|:---|
 | ◈ | Full-stack AI development & integration — product, RAG & vector databases |
 | ◈ | Intelligent product, middleware & agentic workflows |
 | ◈ | AI-driven UX/UI design |
@@ -55,10 +61,14 @@ Measurable **quality**, predictable **latency**, and **failure modes** teams can
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,next,react,nodejs,postgres,docker,kubernetes,aws,gcp,azure,graphql,redis,kafka,git&perline=8&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=ts,py,next,react,nodejs,postgres,docker,kubernetes,aws,gcp,azure,graphql,redis,kafka,git&perline=9&theme=dark" alt="Core stack" />
 </p>
 
-<table width="100%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,angular,java,spring,mongodb,terraform,prometheus,pytorch,flutter,figma&perline=9&theme=dark" alt="Extended toolkit" />
+</p>
+
+<table width="100%" style="border-collapse: collapse;">
 <tr>
 <td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 16px;">
 
@@ -81,7 +91,7 @@ Measurable **quality**, predictable **latency**, and **failure modes** teams can
 <td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 16px;">
 
 **Languages & frameworks**  
-`TypeScript` `Python` `Next.js` `Node`
+`TypeScript` `Python` `Next.js` `Node` · also `Vue` `Angular` `Java` `Spring`
 
 <sub>Typed product code — fast iteration without cutting corners on structure.</sub>
 
@@ -91,25 +101,11 @@ Measurable **quality**, predictable **latency**, and **failure modes** teams can
 **Platform**  
 `APIs` `Event-driven systems` `Technical leadership`
 
-<sub>System design and direction — trade-offs clear, teams ship and own what runs in prod.</sub>
+<sub>System design and direction — trade-offs clear, teams ship and own what runs in prod. Also comfortable with MongoDB, Terraform, Prometheus, Grafana, PyTorch, and more.</sub>
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>Extended toolkit</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,angular,java,spring,mongodb,redis,terraform,prometheus,pytorch,flutter,figma&perline=6&theme=dark" alt="More technologies" />
-</p>
-
-Vue · Angular · Java · Spring Boot · MongoDB · Terraform · Prometheus · Grafana · PyTorch · scikit-learn
-
-</details>
-
-<br/>
 
 ---
 
